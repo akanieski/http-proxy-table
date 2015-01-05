@@ -1,4 +1,7 @@
 {
+  "dependencies"   : {
+    "http-proxy":"*"
+  },
   "name": "http-proxy-table",
   "version": "0.1.0",
   "description": "This project was created to allow for a quick table of routes to be written that use the http-proxy module to provide proxying",
