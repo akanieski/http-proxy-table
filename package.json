@@ -10,6 +10,7 @@
     "http-proxy",
     "proxy"
   ],
+  "repository": "git@github.com:akanieski/http-proxy-table.git",
   "author": "Andrew Kanieski",
   "license": "BSD-2-Clause"
 }
