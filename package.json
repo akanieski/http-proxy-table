@@ -3,7 +3,7 @@
     "http-proxy":"*"
   },
   "name": "http-proxy-table",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "This project was created to allow for a quick table of routes to be written that use the http-proxy module to provide proxying",
   "main": "index.js",
   "scripts": {
